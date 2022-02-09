@@ -9,12 +9,12 @@ In an Electric vehicle charging scenario, The EVSE (ev-charger) and the backend 
 ocpp 1.6 documentation such as Bootnotification, Start transaction, Change config and other feature profile based functions that are implemented in my server as well as chargepoint script.
 
 
-###### Chargepoint script.
+###### CHARGEPOINT SCRIPT.
 
 A chargepoint simulator script is developed that mimics the evse originated OCPP messages and performs functions based on the server response.
 
 
-###### Meter-values 
+###### METER-VALUES 
 
 A package is developed in which I have developed functions to read voltage and frequency that can be imported and used by the chargepoint to send live meter values to server.
 
